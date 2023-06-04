@@ -5,11 +5,11 @@
 
 #Ana Menü Ekran:
 
-![ortalama_hesaplama_img](https://github.com/sadrettingoren/average_calculation_app/assets/102412396/ea3f4863-8384-4f41-963b-d7d9aadf3455)
+
 
 
 #Kaydırarak Silme Widget:
 
-![anlik_kaydirma](https://github.com/sadrettingoren/average_calculation_app/assets/102412396/fbc4e1ed-a27e-4f23-b950-84fbd8867b84)
+
 
 
