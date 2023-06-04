@@ -1,16 +1,15 @@
-# dinamik_not_ortalama_app
+# average_calculation_app
+## Course Average Calculation 
+#### Mevcut olan bu projemde günlük hayatta kullanabileceğimiz ve ders adını, harf not karşılığını, kredi puanını girerek ortalama hesaplayan proje geliştirdim.
+#### Aynı zamanda ekstra olarakta, eklemiş olduğumuz dersleri özel olarak yapmış olduğum widget ile sağa kaydırarak silip başka bir ders ekleyebiliriz.
 
-A new Flutter project.
+#Ana Menü Ekran:
 
-## Getting Started
+![ortalama_hesaplama_img](https://github.com/sadrettingoren/average_calculation_app/assets/102412396/ea3f4863-8384-4f41-963b-d7d9aadf3455)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+#Kaydırarak Silme Widget:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![anlik_kaydirma](https://github.com/sadrettingoren/average_calculation_app/assets/102412396/fbc4e1ed-a27e-4f23-b950-84fbd8867b84)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
